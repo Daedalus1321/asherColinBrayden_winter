@@ -1,8 +1,8 @@
-#Winter Project
+# Winter Project
 
 
-##In Progress:
+## In Progress:
 
-##To Do:
+## To Do:
 
-##Ideas:
+## Ideas:
